@@ -1,4 +1,4 @@
-### WP Plugin Deploy
+### WP Plugin Deploy (Under Development :construction:)
 
 99% chance you don't need this.
 
